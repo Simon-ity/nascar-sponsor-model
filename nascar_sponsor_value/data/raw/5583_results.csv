@@ -1,0 +1,38 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,1,14,Running,267
+4045,48,Alex Bowman,Hendrick Motorsports,Ally Unrivaled League,2,1,Running,267
+4025,23,Bubba Wallace,23XI Racing,Columbia Sportswear Company,3,9,Running,267
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops Spring Fishing Classic,4,4,Running,267
+1361,11,Denny Hamlin,Joe Gibbs Racing,Progressive,5,23,Running,267
+3989,17,Chris Buescher,RFK Racing,Kroger / Farm Rich,6,11,Running,267
+3774,16,AJ Allmendinger,Kaulig Racing,Action Industries,7,10,Running,267
+4065,45,Tyler Reddick,23XI Racing,Jordan Brand,8,20,Running,267
+4070,60,Ryan Preece,RFK Racing,BuildSubmarines.com,9,31,Running,267
+4172,7,Justin Haley,Spire Motorsports,Gainbridge,10,21,Running,267
+4272,38,Zane Smith,Front Row Motorsports,Aaron's Rent to Own,11,17,Running,267
+4184,24,William Byron,Hendrick Motorsports,Valvoline,12,5,Running,267
+3873,3,Austin Dillon,Richard Childress Racing,Bass Pro Shops/Winchester,13,30,Running,267
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,14,12,Running,267
+4059,43,Erik Jones,Legacy Motor Club,Family Dollar,15,28,Running,267
+4224,4,Noah Gragson,Front Row Motorsports,Beef a Roo,16,3,Running,267
+4123,21,Josh Berry,Wood Brothers Racing,DEX Imaging,17,2,Running,267
+4062,9,Chase Elliott,Hendrick Motorsports,UniFirst,18,18,Running,267
+4180,2,Austin Cindric,Team Penske,Menards\Duracell,19,8,Running,267
+3832,71,Michael McDowell,Spire Motorsports,Delaware Life,20,26,Running,267
+454,8,Kyle Busch,Richard Childress Racing,Bank OZK,21,22,Running,267
+4113,99,Daniel Suárez,Trackhouse Racing,Freeway Insurance,22,33,Running,267
+4092,42,John H. Nemechek,Legacy Motor Club,Pye Barker Fire & Safety,23,7,Running,267
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,betr March Madness,24,27,Running,267
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,25,13,Running,267
+1816,6,Brad Keselowski,RFK Racing,Nexlizet,26,32,Running,266
+4013,10,Ty Dillon,Kaulig Racing,Sea Best,27,34,Running,266
+4104,41,Cole Custer,Haas Factory Team,Autodesk/HaasTooling,28,24,Running,266
+4153,20,Christopher Bell,Joe Gibbs Racing,Rheem,29,16,Running,266
+4231,34,Todd Gilliland,Front Row Motorsports,Love's Travel Stops,30,29,Running,266
+4001,1,Ross Chastain,Trackhouse Racing,Kubota,31,25,Running,266
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Jockey,32,35,Running,266
+4269,35,Riley Herbst,23XI Racing,Chumba Casino,33,19,Running,265
+4125,51,Cody Ware,Rick Ware Racing,Jacob Construction,34,36,Running,265
+3669,44,JJ Yeley,NY Racing Team,PCNY,35,37,Running,263
+4023,12,Ryan Blaney,Team Penske,Dent Wizard,36,6,Engine,207
+4326,77,Carson Hocevar,Spire Motorsports,Zeigler Auto Group,37,15,Engine,184

@@ -1,0 +1,37 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+1361,11,Denny Hamlin,Joe Gibbs Racing,Progressive,1,1,Running,240
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,2,3,Running,240
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,3,19,Running,240
+4023,12,Ryan Blaney,Team Penske,Menards\Pennzoil,4,5,Running,240
+3859,22,Joey Logano,Team Penske,Hunt Brothers Pizza,5,13,Running,240
+4092,42,John H. Nemechek,Legacy Motor Club,Pye Barker Fire & Safety,6,20,Running,240
+4153,20,Christopher Bell,Joe Gibbs Racing,DEWALT,7,8,Running,240
+4025,23,Bubba Wallace,23XI Racing,McDonald's,8,14,Running,240
+3989,17,Chris Buescher,RFK Racing,Body Guard,9,11,Running,240
+4368,54,Ty Gibbs,Joe Gibbs Racing,SiriusXM,10,21,Running,240
+4184,24,William Byron,Hendrick Motorsports,Z by HP,11,6,Running,240
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,12,2,Running,240
+4070,60,Ryan Preece,RFK Racing,BuildSubmarines.com,13,32,Running,240
+3832,71,Michael McDowell,Spire Motorsports,Delaware Life,14,28,Running,240
+4326,77,Carson Hocevar,Spire Motorsports,Zeigler Auto Group,15,27,Running,240
+4065,45,Tyler Reddick,23XI Racing,Jordan Brand,16,7,Running,240
+1816,6,Brad Keselowski,RFK Racing,Consumer Cellular,17,23,Running,240
+3873,3,Austin Dillon,Richard Childress Racing,Dow DayGlo,18,15,Running,240
+4180,2,Austin Cindric,Team Penske,Freightliner,19,9,Running,240
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Ram Self Storage,20,34,Running,240
+4059,43,Erik Jones,Legacy Motor Club,Family Dollar,21,16,Running,240
+454,8,Kyle Busch,Richard Childress Racing,Rebel Bourbon,22,22,Running,240
+3774,16,AJ Allmendinger,Kaulig Racing,Celsius,23,17,Running,240
+4001,1,Ross Chastain,Trackhouse Racing,Busch Light,24,4,Running,240
+4469,88,Shane Van Gisbergen,Trackhouse Racing,WeatherTech,25,18,Running,240
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,26,25,Running,240
+4104,41,Cole Custer,Haas Factory Team,Haas/Andy's,27,29,Running,240
+4172,7,Justin Haley,Spire Motorsports,Gainbridge,28,31,Running,240
+4125,51,Cody Ware,Rick Ware Racing,Parts Plus,29,36,Running,240
+4224,4,Noah Gragson,Front Row Motorsports,Beef a Roo,30,24,Running,239
+4269,35,Riley Herbst,23XI Racing,Monster Energy,31,33,Running,239
+4231,34,Todd Gilliland,Front Row Motorsports,Morton Buildings,32,30,Running,239
+4272,38,Zane Smith,Front Row Motorsports,Long John Silver's,33,10,Running,239
+4013,10,Ty Dillon,Kaulig Racing,DraftKings,34,35,Accident,207
+4113,99,Daniel Suárez,Trackhouse Racing,Choice Privileges Waffle,35,26,Accident,64
+4123,21,Josh Berry,Wood Brothers Racing,Motorcraft \ Quick Lane,36,12,Accident,35

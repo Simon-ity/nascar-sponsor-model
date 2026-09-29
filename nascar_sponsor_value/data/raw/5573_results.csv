@@ -1,0 +1,37 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+1361,11,Denny Hamlin,Joe Gibbs Racing,Yahoo!,1,3,Running,200
+3989,17,Chris Buescher,RFK Racing,Kroger / Kraft / Artesano,2,6,Running,200
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,3,8,Running,200
+4025,23,Bubba Wallace,23XI Racing,Columbia,4,9,Running,200
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,5,5,Running,200
+4001,1,Ross Chastain,Trackhouse Racing,Busch Light Apple,6,20,Running,200
+4272,38,Zane Smith,Front Row Motorsports,Long John Silver's,7,10,Running,200
+454,8,Kyle Busch,Richard Childress Racing,BetMGM,8,2,Running,200
+4070,60,Ryan Preece,RFK Racing,Castrol,9,23,Running,200
+1816,6,Brad Keselowski,RFK Racing,BuildSubmarines.com,10,27,Running,200
+4059,43,Erik Jones,Legacy Motor Club,Dollar Tree,11,22,Running,200
+4123,21,Josh Berry,Wood Brothers Racing,Motorcraft \ Quick Lane,12,7,Running,200
+4065,45,Tyler Reddick,23XI Racing,Mobil 1,13,12,Running,200
+4113,99,Daniel Suárez,Trackhouse Racing,Jockey Infinite Cool Underwear,14,35,Running,200
+4062,9,Chase Elliott,Hendrick Motorsports,UniFirst,15,17,Running,200
+4153,20,Christopher Bell,Joe Gibbs Racing,Rheem,16,25,Running,200
+3774,16,AJ Allmendinger,Kaulig Racing,Action Industries,17,19,Running,200
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Safety Culture,18,26,Running,200
+3873,3,Austin Dillon,Richard Childress Racing,Dow Mobility Science,19,28,Running,200
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Real American Beer,20,30,Running,200
+4172,7,Justin Haley,Spire Motorsports,Garner Trucking,21,31,Running,200
+3859,22,Joey Logano,Team Penske,Hunt Brothers Pizza,22,15,Running,200
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,23,1,Running,200
+4013,10,Ty Dillon,Kaulig Racing,Sea Best,24,18,Running,200
+4269,35,Riley Herbst,23XI Racing,Monster Energy Zero Sugar,25,34,Running,200
+4125,51,Cody Ware,Rick Ware Racing,Jacob Construction,26,36,Running,200
+4224,4,Noah Gragson,Front Row Motorsports,MillerTech,27,29,Running,200
+4184,24,William Byron,Hendrick Motorsports,Raptor,28,4,Running,200
+4326,77,Carson Hocevar,Spire Motorsports,Zeigler Auto Group,29,14,Running,199
+3832,71,Michael McDowell,Spire Motorsports,Delaware Life,30,32,Running,199
+4180,2,Austin Cindric,Team Penske,Discount Tire,31,11,Running,199
+4023,12,Ryan Blaney,Team Penske,Menards \ Knauf,32,13,Running,196
+4231,34,Todd Gilliland,Front Row Motorsports,Martin Transportation Systems,33,33,Accident,146
+4092,42,John H. Nemechek,Legacy Motor Club,Pye Barker Fire & Safety,34,21,Accident,72
+4104,41,Cole Custer,Haas Factory Team,HaasTooling.com,35,24,Accident,66
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,36,16,Accident,66

@@ -1,0 +1,38 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Safety Culture,1,1,Running,100
+4153,20,Christopher Bell,Joe Gibbs Racing,Mobil 1,2,31,Running,100
+4062,9,Chase Elliott,Hendrick Motorsports,Llumar,3,12,Running,100
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,4,29,Running,100
+3832,71,Michael McDowell,Spire Motorsports,B'laster,5,5,Running,100
+4092,42,John H. Nemechek,Legacy Motor Club,Pye Barker Fire & Safety,6,32,Running,100
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,7,19,Running,100
+4104,41,Cole Custer,Haas Factory Team,HaasTooling.com,8,26,Running,100
+4184,24,William Byron,Hendrick Motorsports,Valvoline,9,27,Running,100
+3989,17,Chris Buescher,RFK Racing,Body Guard,10,16,Running,100
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,11,4,Running,100
+4025,23,Bubba Wallace,23XI Racing,Chumba Casino,12,25,Running,100
+3774,16,AJ Allmendinger,Kaulig Racing,LeafFilter Gutter Protection,13,8,Running,100
+4023,12,Ryan Blaney,Team Penske,Wurth,14,18,Running,100
+4070,60,Ryan Preece,RFK Racing,Kroger / Colgate,15,2,Running,100
+4001,1,Ross Chastain,Trackhouse Racing,Wendy's Frosty Swirls,16,3,Running,100
+4059,43,Erik Jones,Legacy Motor Club,Family Dollar,17,14,Running,100
+4180,2,Austin Cindric,Team Penske,Menards \ Quaker State,18,20,Running,100
+4113,99,Daniel Suárez,Trackhouse Racing,Telcel,19,10,Running,100
+4065,45,Tyler Reddick,23XI Racing,Xfinity Mobile,20,22,Running,100
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,21,9,Running,100
+4231,34,Todd Gilliland,Front Row Motorsports,Long John Silver's,22,7,Running,100
+3952,11,Ryan Truex,Joe Gibbs Racing,Yahoo!,23,36,Running,100
+4172,7,Justin Haley,Spire Motorsports,Gainbridge,24,17,Running,100
+1816,6,Brad Keselowski,RFK Racing,Castrol,25,30,Running,100
+4123,21,Josh Berry,Wood Brothers Racing,DEX Imaging,26,13,Running,100
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Fun Pops,27,33,Running,100
+3873,3,Austin Dillon,Richard Childress Racing,Boot Barn,28,21,Running,100
+4269,35,Riley Herbst,23XI Racing,Monster Energy Zero Sugar,29,15,Running,100
+4224,4,Noah Gragson,Front Row Motorsports,Long John Silver's,30,35,Running,100
+4125,51,Cody Ware,Rick Ware Racing,Arrowhead Brass,31,34,Running,100
+4284,78,Katherine Legge,Live Fast Motorsports,e.l.f. Cosmetics,32,37,Running,99
+4013,10,Ty Dillon,Kaulig Racing,Ohio Logistics,33,28,Running,99
+4326,77,Carson Hocevar,Spire Motorsports,Totalplay,34,23,Running,99
+4272,38,Zane Smith,Front Row Motorsports,Benebone,35,24,Drivetrain,76
+4030,5,Kyle Larson,Hendrick Motorsports,Valvoline,36,6,Running,58
+454,8,Kyle Busch,Richard Childress Racing,Lucas Oil,37,11,Accident,6

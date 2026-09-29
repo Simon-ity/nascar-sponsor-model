@@ -1,0 +1,38 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4153,20,Christopher Bell,Joe Gibbs Racing,Reser's Fine Foods,1,11,Running,312
+1361,11,Denny Hamlin,Joe Gibbs Racing,SportClips Haircuts,2,10,Running,312
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,3,17,Running,312
+4123,21,Josh Berry,Wood Brothers Racing,eero,4,4,Running,312
+3989,17,Chris Buescher,RFK Racing,Fry's / Thomas' / Philadelphia,5,13,Running,312
+4184,24,William Byron,Hendrick Motorsports,Z by HP,6,1,Running,312
+4045,48,Alex Bowman,Hendrick Motorsports,Ally Best Friends,7,32,Running,312
+454,8,Kyle Busch,Richard Childress Racing,Zone / QuikTrip,8,15,Running,312
+4272,38,Zane Smith,Front Row Motorsports,Aaron's Rent to Own,9,26,Running,312
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,10,6,Running,312
+4001,1,Ross Chastain,Trackhouse Racing,Kubota Orange Days Sales Event,11,24,Running,312
+3873,3,Austin Dillon,Richard Childress Racing,Bass Pro Shops/Winchester,12,21,Running,312
+3859,22,Joey Logano,Team Penske,Hunt Brothers Pizza,13,2,Running,312
+4092,42,John H. Nemechek,Legacy Motor Club,Pye Barker Fire & Safety,14,36,Running,312
+4070,60,Ryan Preece,RFK Racing,Solomon Plumbing,15,28,Running,312
+4013,10,Ty Dillon,Kaulig Racing,Hybrid Light,16,25,Running,312
+4231,34,Todd Gilliland,Front Row Motorsports,Frontline Enterprises INC.,17,27,Running,312
+4059,43,Erik Jones,Legacy Motor Club,Family Dollar,18,5,Running,312
+4180,2,Austin Cindric,Team Penske,Menards \ Monster,19,14,Running,312
+4065,45,Tyler Reddick,23XI Racing,Mobil 1,20,9,Running,312
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Ram Self Storage,21,22,Running,311
+3774,16,AJ Allmendinger,Kaulig Racing,Celsius,22,16,Running,311
+4113,99,Daniel Suárez,Trackhouse Racing,Freeway Insurance,23,31,Running,308
+4125,51,Cody Ware,Rick Ware Racing,Mighty Fire Breaker,24,35,Running,306
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,25,34,Accident,304
+4224,4,Noah Gragson,Front Row Motorsports,Long John Silver's,26,33,Running,303
+3832,71,Michael McDowell,Spire Motorsports,Workforce,27,7,Running,290
+4023,12,Ryan Blaney,Team Penske,Wurth,28,12,Engine,289
+4025,23,Bubba Wallace,23XI Racing,Leidos,29,19,Accident,265
+4284,78,Katherine Legge,Live Fast Motorsports,Droplight,30,37,Accident,210
+4469,88,Shane Van Gisbergen,Trackhouse Racing,WeatherTech,31,29,Accident,100
+4104,41,Cole Custer,Haas Factory Team,Haas/Andy's,32,23,Accident,99
+1816,6,Brad Keselowski,RFK Racing,Consumer Cellular,33,20,Accident,99
+4172,7,Justin Haley,Spire Motorsports,Gainbridge,34,8,Accident,98
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,35,30,Accident,98
+4326,77,Carson Hocevar,Spire Motorsports,MINER DOCKS DOORS AND MORE.,36,3,Accident,98
+4269,35,Riley Herbst,23XI Racing,Monster Energy,37,18,Accident,98

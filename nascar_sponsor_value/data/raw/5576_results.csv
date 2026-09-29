@@ -1,0 +1,41 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA/Children's,1,15,Running,260
+1816,6,Brad Keselowski,RFK Racing,Consumer Cellular,2,6,Running,260
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,3,9,Running,260
+4065,45,Tyler Reddick,23XI Racing,Upper Deck,4,23,Running,260
+4059,43,Erik Jones,Legacy Motor Club,Dollar Tree,5,26,Running,260
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Hungry Jack,6,37,Running,260
+4272,38,Zane Smith,Front Row Motorsports,Aaron's Lucky Dog,7,8,Running,260
+4013,10,Ty Dillon,Kaulig Racing,Mark III Employee Benefits,8,14,Running,260
+3989,17,Chris Buescher,RFK Racing,Kroger/Cinnamon Toast Crunch,9,13,Running,260
+4326,77,Carson Hocevar,Spire Motorsports,Chili's Ride the 'Dente,10,30,Running,260
+4481,87,Connor Zilisch,Trackhouse Racing,Red Bull,11,36,Running,260
+3774,16,AJ Allmendinger,Kaulig Racing,LeafFilter Gutter Protection,12,21,Running,260
+4125,51,Cody Ware,Rick Ware Racing,Jacob Construction,13,39,Running,260
+4368,54,Ty Gibbs,Joe Gibbs Racing,Sonic / Grillo's Pickles,14,16,Running,260
+4070,60,Ryan Preece,RFK Racing,Solomon Plumbing,15,5,Running,260
+3973,78,BJ McLeod,Live Fast Motorsports,Pigeon Forge Racing Coaster,16,38,Running,260
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,17,11,Running,260
+3832,71,Michael McDowell,Spire Motorsports,Delaware Life,18,32,Running,260
+4104,41,Cole Custer,Haas Factory Team,HaasTooling.com,19,7,Running,260
+3873,3,Austin Dillon,Richard Childress Racing,Bass Pro Shops/Winchester,20,12,Running,260
+454,8,Kyle Busch,Richard Childress Racing,SENIX,21,29,Running,260
+4025,23,Bubba Wallace,23XI Racing,Leidos,22,24,Running,258
+4172,7,Justin Haley,Spire Motorsports,Gainbridge,23,22,Running,257
+4469,88,Shane Van Gisbergen,Trackhouse Racing,WeatherTech,24,35,Running,257
+4224,4,Noah Gragson,Front Row Motorsports,Zep,25,27,Running,252
+4092,42,John H. Nemechek,Legacy Motor Club,Pye Barker Fire & Safety,26,19,Running,241
+4231,34,Todd Gilliland,Front Row Motorsports,Rinnai Tankless Water Heaters,27,17,Running,237
+4269,35,Riley Herbst,23XI Racing,Tree Top,28,20,Running,223
+3170,66,David Starr,Garage 66,WNB Factory,29,40,Accident,184
+4153,20,Christopher Bell,Joe Gibbs Racing,Rheem,30,28,Steering,114
+1361,11,Denny Hamlin,Joe Gibbs Racing,King's Hawaiian,31,33,Accident,72
+4123,21,Josh Berry,Wood Brothers Racing,DEX Imaging,32,2,Accident,70
+4001,1,Ross Chastain,Trackhouse Racing,Wendy's Fresh Ways to Frosty,33,34,Accident,69
+4113,99,Daniel Suárez,Trackhouse Racing,Quaker State,34,31,Accident,69
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,35,10,Accident,69
+3859,22,Joey Logano,Team Penske,AutoTrader,36,1,Accident,69
+4184,24,William Byron,Hendrick Motorsports,Axalta,37,18,Accident,69
+4180,2,Austin Cindric,Team Penske,Menards \ Quaker State,38,4,Accident,68
+4096,01,Corey LaJoie,Rick Ware Racing,Schluter Systems,39,25,Accident,68
+4023,12,Ryan Blaney,Team Penske,Advance Auto Parts,40,3,Accident,56

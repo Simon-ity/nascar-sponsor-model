@@ -1,0 +1,37 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4123,21,Josh Berry,Wood Brothers Racing,Motorcraft \ Quick Lane,1,7,Running,267
+4113,99,Daniel Suárez,Trackhouse Racing,Freeway Insurance,2,23,Running,267
+4070,60,Ryan Preece,RFK Racing,Consumer Cellular,3,12,Running,267
+4184,24,William Byron,Hendrick Motorsports,Raptor,4,8,Running,267
+4001,1,Ross Chastain,Trackhouse Racing,Kubota Orange Days Sales Event,5,19,Running,267
+4180,2,Austin Cindric,Team Penske,Discount Tire,6,3,Running,267
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,7,6,Running,267
+3774,16,AJ Allmendinger,Kaulig Racing,Action Industries,8,18,Running,267
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,9,10,Running,267
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,10,16,Running,267
+1816,6,Brad Keselowski,RFK Racing,Castrol,11,27,Running,267
+4153,20,Christopher Bell,Joe Gibbs Racing,Interstate Batteries,12,13,Running,267
+3989,17,Chris Buescher,RFK Racing,Smith's / Dasani,13,11,Running,267
+4172,7,Justin Haley,Spire Motorsports,Gainbridge,14,33,Running,267
+3859,22,Joey Logano,Team Penske,Pennzoil Ultra Platinum,15,2,Running,267
+3832,71,Michael McDowell,Spire Motorsports,Group 1001,16,1,Running,267
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops Spring Fishing Classic,17,24,Running,267
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Real American Beer,18,31,Running,267
+4269,35,Riley Herbst,23XI Racing,SunnyD,19,34,Running,267
+4092,42,John H. Nemechek,Legacy Motor Club,Backstreet Boys,20,30,Running,267
+4013,10,Ty Dillon,Kaulig Racing,Sea Best,21,17,Running,267
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,22,29,Running,267
+4272,38,Zane Smith,Front Row Motorsports,TitleMax,23,9,Running,267
+4065,45,Tyler Reddick,23XI Racing,The Beast,24,14,Running,267
+1361,11,Denny Hamlin,Joe Gibbs Racing,Yahoo!,25,15,Running,267
+4104,41,Cole Custer,Haas Factory Team,HaasTooling.com,26,26,Running,267
+4059,43,Erik Jones,Legacy Motor Club,Dollar Tree,27,5,Running,266
+4025,23,Bubba Wallace,23XI Racing,U.S. Air Force,28,20,Running,266
+4231,34,Todd Gilliland,Front Row Motorsports,Love's Travel Stops,29,32,Running,265
+4326,77,Carson Hocevar,Spire Motorsports,Delaware Life,30,25,Running,265
+4224,4,Noah Gragson,Front Row Motorsports,Beef a Roo,31,21,Accident,241
+3873,3,Austin Dillon,Richard Childress Racing,Dow Mobility Science,32,22,Running,240
+454,8,Kyle Busch,Richard Childress Racing,BetMGM,33,4,Running,232
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Red Bull,34,28,Accident,195
+4023,12,Ryan Blaney,Team Penske,Menards\Pennzoil,35,36,Accident,194
+4125,51,Cody Ware,Rick Ware Racing,Evel Knievel/Parts Plus,36,35,Accident,186

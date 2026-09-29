@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+**/data/processed/mc_values.npy
+.DS_Store
+# private working notes, kept out of the public repo
+nascar_sponsor_value/docs/outreach.md

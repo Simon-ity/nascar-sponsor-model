@@ -1,0 +1,38 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4469,88,Shane Van Gisbergen,Trackhouse Racing,WeatherTech,1,2,Running,109
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,2,4,Running,109
+4153,20,Christopher Bell,Joe Gibbs Racing,DEWALT,3,7,Running,109
+3989,17,Chris Buescher,RFK Racing,Fifth Third Bank,4,5,Running,109
+3832,71,Michael McDowell,Spire Motorsports,Delaware Life/FIG,5,6,Running,109
+4070,60,Ryan Preece,RFK Racing,"Kroger / Totino's Ultimate",6,29,Running,109
+4113,99,Daniel Suárez,Trackhouse Racing,Choice Privileges,7,20,Running,109
+4062,9,Chase Elliott,Hendrick Motorsports,UniFirst,8,15,Running,109
+3774,16,AJ Allmendinger,Kaulig Racing,Celsius,9,9,Running,109
+4065,45,Tyler Reddick,23XI Racing,Jordan Brand,10,1,Running,109
+4184,24,William Byron,Hendrick Motorsports,Valvoline Blood Cancer United,11,13,Running,109
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,12,3,Running,109
+4023,12,Ryan Blaney,Team Penske,Discount Tire,13,11,Running,109
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,14,8,Running,109
+4025,23,Bubba Wallace,23XI Racing,Leidos,15,12,Running,109
+4123,21,Josh Berry,Wood Brothers Racing,DEX Imaging,16,33,Running,109
+4231,34,Todd Gilliland,Front Row Motorsports,Love's Travel Stops,17,31,Running,109
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,18,25,Running,109
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Real American Beer,19,26,Running,109
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,20,17,Running,109
+4001,1,Ross Chastain,Trackhouse Racing,Busch Light,21,10,Running,109
+4104,41,Cole Custer,Haas Factory Team,HaasTooling.com,22,18,Running,109
+1361,11,Denny Hamlin,Joe Gibbs Racing,Progressive,23,14,Running,109
+4272,38,Zane Smith,Front Row Motorsports,Long John Silver's,24,24,Running,109
+4172,7,Justin Haley,Spire Motorsports,Gainbridge STEM,25,21,Running,109
+4092,42,John H. Nemechek,Legacy Motor Club,Family Dollar,26,35,Running,109
+4013,10,Ty Dillon,Kaulig Racing,Sea Best,27,16,Running,108
+4224,4,Noah Gragson,Front Row Motorsports,Rush Truck Centers,28,30,Running,108
+4326,77,Carson Hocevar,Spire Motorsports,Modo Casino,29,27,Running,108
+4059,43,Erik Jones,Legacy Motor Club,TriState Vacuum & Rentall LLC,30,37,Running,108
+3873,3,Austin Dillon,Richard Childress Racing,Titan Risk Solutions,31,36,Running,108
+4213,66,Josh Bilicki,Garage 66,Truan Equipment,32,34,Running,108
+4125,51,Cody Ware,Rick Ware Racing,Parts Plus-Pronto,33,32,Running,108
+454,8,Kyle Busch,Richard Childress Racing,Bank OZK,34,28,Running,100
+1816,6,Brad Keselowski,RFK Racing,Castrol,35,22,Drivetrain,89
+4180,2,Austin Cindric,Team Penske,"Menards\Richmond Water Heaters",36,19,Running,87
+4269,35,Riley Herbst,23XI Racing,Monster Energy Zero Sugar,37,23,Running,108

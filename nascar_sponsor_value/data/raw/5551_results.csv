@@ -1,0 +1,38 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4153,20,Christopher Bell,Joe Gibbs Racing,DEWALT,1,19,Running,95
+4184,24,William Byron,Hendrick Motorsports,Raptor,2,15,Running,95
+4065,45,Tyler Reddick,23XI Racing,The Beast,3,1,Running,95
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,4,3,Running,95
+454,8,Kyle Busch,Richard Childress Racing,Rebel Bourbon,5,8,Running,95
+4469,88,Shane Van Gisbergen,Trackhouse Racing,WeatherTech,6,6,Running,95
+3989,17,Chris Buescher,RFK Racing,Fastenal,7,24,Running,95
+4224,4,Noah Gragson,Front Row Motorsports,Rush Truck Centers,8,17,Running,95
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,9,21,Running,95
+4231,34,Todd Gilliland,Front Row Motorsports,Love's Travel Stops,10,10,Running,95
+3832,71,Michael McDowell,Spire Motorsports,Gainbridge,11,16,Running,95
+4001,1,Ross Chastain,Trackhouse Racing,Busch Light For the Love of Texas,12,9,Running,95
+4326,77,Carson Hocevar,Spire Motorsports,Delaware Life,13,4,Running,95
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,14,18,Running,95
+1816,6,Brad Keselowski,RFK Racing,Castrol,15,26,Running,95
+4172,7,Justin Haley,Spire Motorsports,Group 1001,16,29,Running,95
+4269,35,Riley Herbst,23XI Racing,Chumba Casino,17,31,Running,95
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Rate,18,22,Running,95
+4023,12,Ryan Blaney,Team Penske,Menards\Duracell,19,25,Running,95
+4025,23,Bubba Wallace,23XI Racing,Mobil 1,20,2,Running,95
+1361,11,Denny Hamlin,Joe Gibbs Racing,National Debt Relief,21,11,Running,95
+4092,42,John H. Nemechek,Legacy Motor Club,Pye Barker Fire & Safety,22,33,Running,95
+4104,41,Cole Custer,Haas Factory Team,Haas/Bonanza,23,30,Running,95
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,24,23,Running,95
+4180,2,Austin Cindric,Team Penske,Discount Tire,25,36,Running,95
+4123,21,Josh Berry,Wood Brothers Racing,Freightliner,26,35,Running,95
+4059,43,Erik Jones,Legacy Motor Club,Dollar Tree,27,32,Running,95
+4013,10,Ty Dillon,Kaulig Racing,Sea Best,28,34,Running,95
+4272,38,Zane Smith,Front Row Motorsports,TitleMax,29,20,Running,95
+3774,16,AJ Allmendinger,Kaulig Racing,Celsius,30,12,Running,95
+4125,51,Cody Ware,Rick Ware Racing,Arby's,31,37,Running,95
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,32,7,Running,95
+4070,60,Ryan Preece,RFK Racing,BuildSubmarines.com,33,28,Running,95
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,34,13,Running,95
+3873,3,Austin Dillon,Richard Childress Racing,BREZTRI,35,27,Accident,80
+4113,99,Daniel Suárez,Trackhouse Racing,Freeway Insurance,36,5,Accident,50
+4481,87,Connor Zilisch,Trackhouse Racing,Red Bull,37,14,Accident,49

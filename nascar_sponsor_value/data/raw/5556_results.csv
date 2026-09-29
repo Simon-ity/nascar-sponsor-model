@@ -1,0 +1,38 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+1361,11,Denny Hamlin,Joe Gibbs Racing,Progressive,1,13,Running,407
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,2,2,Running,407
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,3,16,Running,407
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,4,25,Running,407
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,5,9,Running,407
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,6,1,Running,407
+4025,23,Bubba Wallace,23XI Racing,Space Force/Leidos,7,22,Running,407
+4023,12,Ryan Blaney,Team Penske,Menards \ Libman,8,31,Running,407
+3989,17,Chris Buescher,RFK Racing,Trimble,9,12,Running,407
+1816,6,Brad Keselowski,RFK Racing,BuildSubmarines.com,10,15,Running,407
+454,8,Kyle Busch,Richard Childress Racing,Cheddar's Patriotic,11,10,Running,407
+4065,45,Tyler Reddick,23XI Racing,SiriusXM,12,4,Running,407
+3832,71,Michael McDowell,Spire Motorsports,Delaware Life,13,7,Running,407
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,14,8,Running,407
+3873,3,Austin Dillon,Richard Childress Racing,BREZTRI,15,23,Running,407
+4180,2,Austin Cindric,Team Penske,AutoTrader,16,26,Running,407
+4172,7,Justin Haley,Spire Motorsports,Gainbridge,17,20,Running,407
+4153,20,Christopher Bell,Joe Gibbs Racing,Rheem,18,3,Running,407
+4070,60,Ryan Preece,RFK Racing,Castrol,19,11,Running,407
+4013,10,Ty Dillon,Kaulig Racing,Sea Best,20,21,Running,407
+4092,42,John H. Nemechek,Legacy Motor Club,Hertz,21,28,Running,406
+4272,38,Zane Smith,Front Row Motorsports,Horizon Hobby,22,30,Running,406
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Fun Pops,23,34,Running,405
+4269,35,Riley Herbst,23XI Racing,Tree Top,24,32,Running,405
+4231,34,Todd Gilliland,Front Row Motorsports,Love's Travel Stops,25,24,Running,405
+4113,99,Daniel Suárez,Trackhouse Racing,Jockey Infinite Cool Underwear,26,18,Running,404
+4059,43,Erik Jones,Legacy Motor Club,Dollar Tree,27,27,Running,404
+4123,21,Josh Berry,Wood Brothers Racing,Advance Auto Parts,28,14,Running,404
+4104,41,Cole Custer,Haas Factory Team,HaasTooling.com,29,29,Running,403
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Safety Culture,30,6,Running,400
+4184,24,William Byron,Hendrick Motorsports,Raptor,31,5,Accident,393
+4224,4,Noah Gragson,Front Row Motorsports,MillerTech,32,36,Accident,393
+4001,1,Ross Chastain,Trackhouse Racing,Moose Fraternity,33,19,Accident,382
+3669,44,JJ Yeley,NY Racing Team,Ultimate Tailgating RV,34,37,Fatigue,369
+4326,77,Carson Hocevar,Spire Motorsports,"MINER DOCKS, DOORS AND MORE.",35,33,Handling,302
+4125,51,Cody Ware,Rick Ware Racing,Mighty Fire Breaker,36,35,Handling,232
+3774,16,AJ Allmendinger,Kaulig Racing,Campers Inn RV,37,17,Suspension,221

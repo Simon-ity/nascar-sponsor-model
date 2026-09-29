@@ -1,0 +1,38 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4062,9,Chase Elliott,Hendrick Motorsports,Kelley Blue Book,1,4,Running,273
+1361,11,Denny Hamlin,Joe Gibbs Racing,SportClips Haircuts,2,2,Running,273
+4153,20,Christopher Bell,Joe Gibbs Racing,Rheem,3,5,Running,273
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,4,1,Running,273
+4025,23,Bubba Wallace,23XI Racing,U.S. Air Force,5,7,Running,273
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,6,3,Running,273
+4065,45,Tyler Reddick,23XI Racing,The Beast,7,12,Running,273
+1816,6,Brad Keselowski,RFK Racing,Solomon Plumbing,8,31,Running,273
+4184,24,William Byron,Hendrick Motorsports,Cincinnati,9,11,Running,273
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Red Bull,10,24,Running,273
+4001,1,Ross Chastain,Trackhouse Racing,Kubota,11,9,Running,273
+4231,34,Todd Gilliland,Front Row Motorsports,Dean's Dip,12,23,Running,273
+4013,10,Ty Dillon,Kaulig Racing,DraftKings,13,33,Running,273
+3832,71,Michael McDowell,Spire Motorsports,Gainbridge,14,21,Running,273
+3989,17,Chris Buescher,RFK Racing,Body Guard,15,15,Running,273
+4059,43,Erik Jones,Legacy Motor Club,AdventHealth,16,10,Running,273
+4113,99,Daniel Suárez,Trackhouse Racing,Freeway Hispanic Heritage,17,30,Running,273
+4172,7,Justin Haley,Spire Motorsports,Nations Guard,18,22,Running,273
+454,8,Kyle Busch,Richard Childress Racing,Cheddar's Scratch Kitchen,19,29,Running,273
+4104,41,Cole Custer,Haas Factory Team,Haas/Andy's,20,27,Running,273
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,21,35,Running,273
+4269,35,Riley Herbst,23XI Racing,Monster Energy,22,32,Running,273
+4224,4,Noah Gragson,Front Row Motorsports,Beef a Roo,23,14,Running,273
+4023,12,Ryan Blaney,Team Penske,"Menards\Richmond Water Heaters",24,37,Running,273
+4368,54,Ty Gibbs,Joe Gibbs Racing,SAIA LTL Freight,25,8,Running,272
+4070,60,Ryan Preece,RFK Racing,Kroger/ Minute Rice,26,19,Running,271
+3873,3,Austin Dillon,Richard Childress Racing,BPS/Winchester Deer Season XP,27,16,Running,271
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,28,17,Running,271
+4326,77,Carson Hocevar,Spire Motorsports,Delaware Life,29,6,Running,269
+4180,2,Austin Cindric,Team Penske,Discount Tire,30,26,Running,269
+4272,38,Zane Smith,Front Row Motorsports,Speedy Cash,31,28,Accident,266
+4092,42,John H. Nemechek,Legacy Motor Club,Dollar Tree,32,25,Accident,266
+4123,21,Josh Berry,Wood Brothers Racing,"Menards \ Dutch Boy",33,13,Accident,266
+3669,44,JJ Yeley,NY Racing Team,PCNY Concierge,34,36,Running,261
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Ram Self Storage,35,18,Running,236
+3774,16,AJ Allmendinger,Kaulig Racing,Action Industries,36,20,Accident,216
+4125,51,Cody Ware,Rick Ware Racing,Evel Knievel Museum,37,34,Accident,52

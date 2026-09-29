@@ -1,0 +1,142 @@
+{
+  "season_total_value": {
+    "p10": 202989200.0,
+    "p50": 322587328.0,
+    "p90": 500088256.0
+  },
+  "concentration": {
+    "top10_share": 0.4041250944137573,
+    "bottom20_share": 0.1214778870344162,
+    "n_cars": 50
+  },
+  "ny44": {
+    "entries": 15,
+    "starts": 14,
+    "season_value": {
+      "p10": 642827.0625,
+      "p50": 1104171.0,
+      "p90": 1867745.0
+    },
+    "per_start_median": 78869.359375,
+    "median_clear_sec_per_start": 27.164943,
+    "median_avg_running_position": 34.585,
+    "top15_laps_total": 26,
+    "best_value_race": {
+      "track_name": "Atlanta Motor Speedway",
+      "race_date": "2025-02-23",
+      "value_p50": 272506.38,
+      "status": "Accident"
+    }
+  },
+  "median_car_value_per_race": 181638.82451388892,
+  "leader_vs_backmarker_seconds": {
+    "most_laps_led_median_sec": 472.90734,
+    "backmarker_median_sec": 35.95103675
+  },
+  "backmarker_run_by_network": {
+    "FOX": {
+      "value_p50": 158071.20500000002,
+      "median_viewers_m": 4.359,
+      "races": 4
+    },
+    "FS1": {
+      "value_p50": 83672.2575,
+      "median_viewers_m": 2.4905,
+      "races": 8
+    },
+    "PRIME VIDEO": {
+      "value_p50": 73294.727,
+      "median_viewers_m": 2.06,
+      "races": 5
+    },
+    "TNT": {
+      "value_p50": 63387.799999999996,
+      "median_viewers_m": 2.1,
+      "races": 5
+    },
+    "USA": {
+      "value_p50": 54569.57125,
+      "median_viewers_m": 1.54,
+      "races": 10
+    },
+    "NBC": {
+      "value_p50": 77150.2475,
+      "median_viewers_m": 2.665,
+      "races": 4
+    }
+  },
+  "fox_window_share_of_backmarker_value": 0.4959287783517463,
+  "fox_window_races": 12,
+  "daytona500": {
+    "backmarker_value_if_in": 360950.545,
+    "p_qualify_mean": 0.49962436833776475,
+    "p_qualify_p10": 0.30092236278651163,
+    "p_qualify_p90": 0.6988363465566276,
+    "expected_value": 180339.68804679692,
+    "open_entries": 9
+  },
+  "oversubscribed_races": [
+    {
+      "race_name": "DAYTONA 500",
+      "open_entries": 9,
+      "open_non_starters": 4
+    },
+    {
+      "race_name": "Grant Park 165",
+      "open_entries": 5,
+      "open_non_starters": 1
+    }
+  ],
+  "audience_tests": {
+    "kruskal_H": 26.892875530956356,
+    "kruskal_p": 5.984870106859351e-05,
+    "r2": 0.8371987434620335,
+    "n_races": 36,
+    "vs_usa": {
+      "FOX": {
+        "x": 2.8871672599411635,
+        "lo": 1.8615453337056458,
+        "hi": 4.477857528337928
+      },
+      "FS1": {
+        "x": 1.5207118584731232,
+        "lo": 1.305160959153426,
+        "hi": 1.7718615779013132
+      },
+      "NBC": {
+        "x": 1.7021038264151165,
+        "lo": 1.2809661392843672,
+        "hi": 2.261697126136
+      },
+      "PRIME VIDEO": {
+        "x": 1.2239063807574155,
+        "lo": 1.0001545405261825,
+        "hi": 1.4977153711371884
+      },
+      "TNT": {
+        "x": 1.2216536903948114,
+        "lo": 0.982343780528988,
+        "hi": 1.519262165483035
+      }
+    },
+    "fox_vs_usa_without_daytona500": 2.6297014406968398
+  },
+  "sensitivity_base_per_start": 84339.13779084325,
+  "sensitivity_top3": [
+    {
+      "param": "cpm",
+      "value_at_low": 52711.96111927701,
+      "value_at_high": 115966.31446240943
+    },
+    {
+      "param": "clear_share",
+      "value_at_low": 56226.091860562155,
+      "value_at_high": 112452.18372112431
+    },
+    {
+      "param": "top10_target",
+      "value_at_low": 114147.9369929068,
+      "value_at_high": 62213.88054793594
+    }
+  ]
+}

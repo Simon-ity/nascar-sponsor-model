@@ -1,0 +1,40 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4180,2,Austin Cindric,Team Penske,Menards \ Quaker State,1,7,Running,188
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,2,25,Running,188
+4184,24,William Byron,Hendrick Motorsports,Valvoline,3,16,Running,188
+4224,4,Noah Gragson,Front Row Motorsports,Rural King,4,27,Running,188
+4062,9,Chase Elliott,Hendrick Motorsports,Amazon Prime Video,5,30,Running,188
+4326,77,Carson Hocevar,Spire Motorsports,Chili's Ride the 'Dente,6,28,Running,188
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,7,18,Running,188
+4025,23,Bubba Wallace,23XI Racing,Leidos,8,20,Running,188
+4113,99,Daniel Suárez,Trackhouse Racing,Wendy's Frosty,9,24,Running,188
+3873,3,Austin Dillon,Richard Childress Racing,Bass Pro Shops/Winchester,10,5,Running,188
+3832,71,Michael McDowell,Spire Motorsports,Gunk,11,14,Running,188
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,NOS Energy,12,35,Running,188
+4104,41,Cole Custer,Haas Factory Team,Haas/Andy's,13,12,Running,188
+4065,45,Tyler Reddick,23XI Racing,Xfinity Mobile,14,26,Running,188
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,15,17,Running,188
+4231,34,Todd Gilliland,Front Row Motorsports,Love's Travel Stops,16,15,Running,188
+4368,54,Ty Gibbs,Joe Gibbs Racing,SAIA LTL Freight,17,10,Running,188
+4059,43,Erik Jones,Legacy Motor Club,Massey Motor Freight,18,34,Running,188
+4272,38,Zane Smith,Front Row Motorsports,TitleMax,19,1,Running,188
+4001,1,Ross Chastain,Trackhouse Racing,Jockey,20,32,Running,188
+1361,11,Denny Hamlin,Joe Gibbs Racing,Progressive,21,13,Running,188
+4269,35,Riley Herbst,23XI Racing,Monster Energy,22,23,Running,188
+4013,10,Ty Dillon,Kaulig Racing,Sea Best,23,21,Running,188
+3774,16,AJ Allmendinger,Kaulig Racing,Grizzly Nicotine Pouches,24,19,Running,188
+4172,7,Justin Haley,Spire Motorsports,Gainbridge,25,37,Running,188
+4123,21,Josh Berry,Wood Brothers Racing,Motorcraft \ Quick Lane,26,8,Running,188
+454,8,Kyle Busch,Richard Childress Racing,Nicokick,27,2,Running,188
+4301,62,Anthony Alfredo,Beard Motorsports,Fortify Building Solutions,28,31,Running,188
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Safety Culture,29,36,Running,187
+4092,42,John H. Nemechek,Legacy Motor Club,Jack Link's,30,29,Running,187
+4125,51,Cody Ware,Rick Ware Racing,Arby's x AC Barbecue Sauce,31,33,Running,186
+3669,44,JJ Yeley,NY Racing Team,Barnett Southern Corporation,32,39,Running,186
+3973,78,BJ McLeod,Live Fast Motorsports,Pigeon Forge Racing Coaster,33,38,Overheating,71
+3989,17,Chris Buescher,RFK Racing,Travel Centers of America,34,6,Accident,51
+4153,20,Christopher Bell,Joe Gibbs Racing,SportClips Haircuts,35,11,Accident,51
+1816,6,Brad Keselowski,RFK Racing,BuildSubmarines.com,36,22,Accident,42
+4023,12,Ryan Blaney,Team Penske,Advance Auto Parts,37,9,Accident,42
+4070,60,Ryan Preece,RFK Racing,Kroger / CELSIUS,38,4,Running,188
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,39,3,Running,188

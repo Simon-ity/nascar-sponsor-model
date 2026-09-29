@@ -1,0 +1,12 @@
+param,low,high,value_at_low,value_at_high,swing,basis
+cpm_daytona500,59.0,74.0,84339.13779084325,84339.13779084325,0.0,"SBJ via Awful Announcing: 2025 Daytona 500 spots mostly $400-450K, some $500K+, 6.761M viewers"
+crash_bonus,0.005,0.02,84382.59064263415,84401.77076448272,19.18012184856343,Assumption: extra share of coverage for each car that crashes out (replays)
+ad_load,0.2,0.3,89961.74697689942,78716.528604787,11245.218372112417,Assumption: share of race coverage in national commercial breaks
+phi,0.1,0.25,76691.64909288447,94338.69391329154,17647.04482040707,Assumption: share of car coverage that follows the leader (Rotthoff et al. 2014: laps led drive exposure)
+coverage_min,150.0,200.0,72290.68953500848,96387.58604667797,24096.89651166949,Assumption: green-to-checkered coverage minutes for a Cup race
+primary_share,0.6,0.8,72290.68953500848,96387.58604667798,24096.896511669504,Assumption: primary sponsor's share of a car's logo exposure (hood + quarter panels)
+car_shot_share,0.55,0.8,68720.77894068706,99957.49664099938,31236.71770031232,"Assumption: share of race coverage showing cars (vs booth, pit, crowd, graphics)"
+cars_per_shot,1.5,2.5,63254.353343132425,105423.92223855403,42169.56889542161,Assumption: average number of cars identifiable per shot
+top10_target,0.45,0.55,114147.9369929068,62213.88054793594,51934.05644497086,Relo Metrics: cameras focus on the top 10 for about half of each race
+clear_share,0.25,0.5,56226.091860562155,112452.18372112431,56226.091860562155,Assumption: share of on-screen time a car's primary logos are clear and in focus; Relo Metrics reports ~20% of NASCAR frames are blurry
+cpm,25.0,55.0,52711.96111927701,115966.31446240943,63254.35334313242,Assumption: CPM for a regular Cup race; below the Daytona 500 anchor

@@ -1,0 +1,40 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4025,23,Bubba Wallace,23XI Racing,Chumba Casino,1,2,Running,168
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,2,13,Running,168
+1361,11,Denny Hamlin,Joe Gibbs Racing,Progressive,3,39,Running,168
+4070,60,Ryan Preece,RFK Racing,"Castrol ""The Engine""",4,23,Running,168
+1816,6,Brad Keselowski,RFK Racing,Body Guard,5,14,Running,168
+4231,34,Todd Gilliland,Front Row Motorsports,gener8tor,6,19,Running,168
+4023,12,Ryan Blaney,Team Penske,Menards/Delta,7,24,Running,168
+4153,20,Christopher Bell,Joe Gibbs Racing,Rheem,8,16,Running,168
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,9,21,Running,168
+4326,77,Carson Hocevar,Spire Motorsports,Zeigler Auto Group,10,8,Running,168
+4172,7,Justin Haley,Spire Motorsports,Gainbridge/TED Sports Indy,11,28,Running,168
+4092,42,John H. Nemechek,Legacy Motor Club,Pye Barker Fire & Safety,12,36,Running,168
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,13,30,Running,168
+3989,17,Chris Buescher,RFK Racing,Kroger / Diet Cherry Coke,14,7,Running,168
+4180,2,Austin Cindric,Team Penske,Discount Tire,15,10,Running,168
+4184,24,William Byron,Hendrick Motorsports,Liberty University,16,6,Running,168
+4284,78,Katherine Legge,Live Fast Motorsports,Droplight,17,38,Running,168
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,18,1,Running,168
+4469,88,Shane Van Gisbergen,Trackhouse Racing,WeatherTech,19,11,Running,168
+4104,41,Cole Custer,Haas Factory Team,Haas/Autodesk,20,29,Running,168
+4368,54,Ty Gibbs,Joe Gibbs Racing,SAIA LTL Freight,21,5,Running,168
+4123,21,Josh Berry,Wood Brothers Racing,PPG,22,17,Running,168
+3774,16,AJ Allmendinger,Kaulig Racing,Grizzly Nicotine Pouches,23,9,Running,167
+4463,62,Jesse Love,Beard Motorsports,C4 Ultimate Energy,24,35,Running,167
+454,8,Kyle Busch,Richard Childress Racing,Zone,25,12,Running,166
+4269,35,Riley Herbst,23XI Racing,Monster Energy,26,25,Running,166
+4113,99,Daniel Suárez,Trackhouse Racing,Freeway Insurance,27,31,Running,165
+4013,10,Ty Dillon,Kaulig Racing,Sea Best,28,26,Running,165
+4065,45,Tyler Reddick,23XI Racing,Xfinity Mobile,29,4,Accident,163
+3832,71,Michael McDowell,Spire Motorsports,Delaware Life,30,22,Running,162
+4272,38,Zane Smith,Front Row Motorsports,Aaron's Rent to Own,31,27,Accident,161
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,32,15,Accident,160
+4224,4,Noah Gragson,Front Row Motorsports,Rush Truck Centers,33,18,Running,153
+4213,66,Josh Bilicki,Garage 66,SHERFICK COMPANIES,34,37,Electrical,125
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Rate,35,32,Running,101
+4059,43,Erik Jones,Legacy Motor Club,Dollar Tree,36,3,Accident,89
+4125,51,Cody Ware,Rick Ware Racing,Arby's,37,34,Fatigue,58
+3873,3,Austin Dillon,Richard Childress Racing,Get Bioethanol,38,20,Accident,56
+4001,1,Ross Chastain,Trackhouse Racing,Busch Light Lime,39,33,Accident,17

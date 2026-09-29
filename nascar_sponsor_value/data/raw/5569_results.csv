@@ -1,0 +1,42 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4387,67,Corey Heim,23XI Racing,Robinhood,0,0,,0
+4469,88,Shane Van Gisbergen,Trackhouse Racing,WeatherTech,1,1,Running,75
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,2,9,Running,75
+4065,45,Tyler Reddick,23XI Racing,Jordan Brand,3,4,Running,75
+1361,11,Denny Hamlin,Joe Gibbs Racing,Progressive,4,40,Running,75
+454,8,Kyle Busch,Richard Childress Racing,Slurpee,5,6,Running,75
+3774,16,AJ Allmendinger,Kaulig Racing,Celsius,6,16,Running,75
+4070,60,Ryan Preece,RFK Racing,BuildSubmarines.com,7,7,Running,75
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,8,11,Running,75
+4133,33,Austin Hill,Richard Childress Racing,United Rentals,9,30,Running,75
+4001,1,Ross Chastain,Trackhouse Racing,Busch Light Apple,10,22,Running,75
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,11,12,Running,75
+4023,12,Ryan Blaney,Team Penske,Menards \ Dutch Boy,12,17,Running,75
+4030,5,Kyle Larson,Hendrick Motorsports,Valvoline,13,14,Running,75
+4272,38,Zane Smith,Front Row Motorsports,Vermeer Midwest,14,26,Running,75
+4092,42,John H. Nemechek,Legacy Motor Club,Dollar Tree,15,25,Running,75
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,16,39,Running,75
+4269,35,Riley Herbst,23XI Racing,Lucy,17,21,Running,75
+3989,17,Chris Buescher,RFK Racing,Body Guard,18,8,Running,75
+4284,78,Katherine Legge,Live Fast Motorsports,e.l.f. Cosmetics,19,33,Running,75
+4013,10,Ty Dillon,Kaulig Racing,Sea Best,20,36,Running,75
+4213,66,Josh Bilicki,Garage 66,Pure Kick,21,31,Running,75
+4172,7,Justin Haley,Spire Motorsports,Gainbridge,22,28,Running,75
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,23,5,Running,75
+4153,20,Christopher Bell,Joe Gibbs Racing,CRAFTSMAN Racing for a Miracle,24,13,Running,74
+4059,43,Erik Jones,Legacy Motor Club,AdventHealth,25,34,Running,74
+4125,51,Cody Ware,Rick Ware Racing,Arby's New Angus Cheesesteak,26,35,Accident,73
+4180,2,Austin Cindric,Team Penske,Discount Tire,27,27,Running,72
+4025,23,Bubba Wallace,23XI Racing,McDonald's,28,37,Running,70
+4113,99,Daniel Suárez,Trackhouse Racing,Jockey,29,18,Accident,69
+4224,4,Noah Gragson,Front Row Motorsports,Rasmussen Air & Gas Energy,30,24,Running,68
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Rate,31,32,Accident,62
+3832,71,Michael McDowell,Spire Motorsports,DePaul,32,2,Running,53
+4104,41,Cole Custer,Haas Factory Team,Haas/Andy's,33,23,Accident,29
+4123,21,Josh Berry,Wood Brothers Racing,Motorcraft \ Quick Lane,34,29,Accident,28
+4326,77,Carson Hocevar,Spire Motorsports,Zeigler Auto Group,35,3,Accident,2
+3873,3,Austin Dillon,Richard Childress Racing,BREZTRI,36,10,Accident,2
+1816,6,Brad Keselowski,RFK Racing,Kroger/Blue Buffalo,37,15,Accident,2
+4231,34,Todd Gilliland,Front Row Motorsports,Grillo's Pickles,38,20,Accident,2
+4492,13,Will Brown,Kaulig Racing,Mobile X,39,19,Accident,2
+4184,24,William Byron,Hendrick Motorsports,All-Pro Auto Reconditioning,40,38,Clutch,1

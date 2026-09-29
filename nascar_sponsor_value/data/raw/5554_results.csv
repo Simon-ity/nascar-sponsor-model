@@ -1,0 +1,39 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+3859,22,Joey Logano,Team Penske,AAA Insurance,1,27,Running,271
+4001,1,Ross Chastain,Trackhouse Racing,Tootsies Orchid Lounge,2,31,Running,271
+4023,12,Ryan Blaney,Team Penske,Menards \ Knauf,3,24,Running,271
+4030,5,Kyle Larson,Hendrick Motorsports,Valvoline,4,4,Running,271
+4059,43,Erik Jones,Legacy Motor Club,AdventHealth,5,14,Running,271
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,SunnyD,6,34,Running,271
+3873,3,Austin Dillon,Richard Childress Racing,Bass Pro/Winchester,7,19,Running,271
+4092,42,John H. Nemechek,Legacy Motor Club,Dollar Tree,8,28,Running,271
+4153,20,Christopher Bell,Joe Gibbs Racing,Interstate Batteries,9,16,Running,271
+4113,99,Daniel Suárez,Trackhouse Racing,Kubota,10,25,Running,271
+4231,34,Todd Gilliland,Front Row Motorsports,Love's Travel Stops,11,32,Running,271
+4013,10,Ty Dillon,Kaulig Racing,Grizzly Nicotine Pouches,12,23,Running,271
+4184,24,William Byron,Hendrick Motorsports,Raptor,13,2,Running,271
+4269,35,Riley Herbst,23XI Racing,BeatBox,14,21,Running,271
+4172,7,Justin Haley,Spire Motorsports,Katz Coffee,15,15,Running,271
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,16,29,Running,271
+4272,38,Zane Smith,Front Row Motorsports,Speedy Cash,17,13,Running,271
+3989,17,Chris Buescher,RFK Racing,Fifth Third Bank,18,12,Running,271
+4104,41,Cole Custer,Haas Factory Team,Red Baron,19,20,Running,271
+454,8,Kyle Busch,Richard Childress Racing,7-Eleven,20,26,Running,271
+4065,45,Tyler Reddick,23XI Racing,Jordan Brand,21,17,Running,271
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Safety Culture,22,37,Running,271
+4368,54,Ty Gibbs,Joe Gibbs Racing,SAIA LTL Freight,23,6,Running,271
+4326,77,Carson Hocevar,Spire Motorsports,Chili's Ride the 'Dente,24,1,Running,270
+4180,2,Austin Cindric,Team Penske,Discount Tire,25,3,Running,268
+3832,71,Michael McDowell,Spire Motorsports,Delaware Life,26,5,Accident,265
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,27,22,Suspension,254
+1816,6,Brad Keselowski,RFK Racing,Consumer Cellular,28,30,Accident,246
+4070,60,Ryan Preece,RFK Racing,Kroger / Sara Lee / Kraft Singles,29,33,Accident,237
+4125,51,Cody Ware,Rick Ware Racing,Arby's,30,36,Accident,237
+4463,62,Jesse Love,Beard Motorsports,C4 Ultimate Energy,31,35,Accident,217
+4123,21,Josh Berry,Wood Brothers Racing,Wurth,32,7,Running,187
+4025,23,Bubba Wallace,23XI Racing,McDonald's,33,9,Accident,179
+4224,4,Noah Gragson,Front Row Motorsports,Rush Truck Centers,34,18,Accident,172
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,35,11,Accident,172
+3774,16,AJ Allmendinger,Kaulig Racing,LeafFilter Gutter Protection,36,10,Accident,172
+4232,66,Chad Finchum,Garage 66,HART HVAC & Electric,37,38,Accident,167
+1361,11,Denny Hamlin,Joe Gibbs Racing,Progressive,38,8,Engine,73

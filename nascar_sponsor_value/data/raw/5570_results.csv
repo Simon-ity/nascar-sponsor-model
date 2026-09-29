@@ -1,0 +1,38 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,1,6,Running,160
+1361,11,Denny Hamlin,Joe Gibbs Racing,Progressive,2,1,Running,160
+4023,12,Ryan Blaney,Team Penske,Wabash,3,20,Running,160
+3989,17,Chris Buescher,RFK Racing,Nexletol,4,2,Running,160
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,5,18,Running,160
+4092,42,John H. Nemechek,Legacy Motor Club,Pye Barker Fire & Safety,6,4,Running,160
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,7,24,Running,160
+4070,60,Ryan Preece,RFK Racing,Kroger / Scott 1000,8,13,Running,160
+1816,6,Brad Keselowski,RFK Racing,BuildSubmarines.com,9,14,Running,160
+4180,2,Austin Cindric,Team Penske,Menards \ Tarkett,10,19,Running,160
+4045,48,Alex Bowman,Hendrick Motorsports,Ally Best Friends,11,25,Running,160
+4123,21,Josh Berry,Wood Brothers Racing,eero,12,35,Running,160
+4059,43,Erik Jones,Legacy Motor Club,Family Dollar,13,11,Running,160
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,14,7,Running,160
+4113,99,Daniel Suárez,Trackhouse Racing,Very Good Ventures,15,10,Running,160
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,16,12,Running,160
+4153,20,Christopher Bell,Joe Gibbs Racing,Rheem,17,9,Running,160
+4326,77,Carson Hocevar,Spire Motorsports,Delaware Life,18,3,Running,160
+4172,7,Justin Haley,Spire Motorsports,Dorman,19,22,Running,160
+454,8,Kyle Busch,Richard Childress Racing,zone / GetGo,20,26,Running,160
+3774,16,AJ Allmendinger,Kaulig Racing,Celsius,21,33,Running,160
+4104,41,Cole Custer,Haas Factory Team,HaasTooling.com,22,5,Running,160
+4224,4,Noah Gragson,Front Row Motorsports,MillerTech,23,17,Running,160
+3873,3,Austin Dillon,Richard Childress Racing,Bass Pro Shops/Winchester,24,16,Running,160
+4272,38,Zane Smith,Front Row Motorsports,Long John Silver's,25,15,Running,160
+4001,1,Ross Chastain,Trackhouse Racing,Busch Light Apple,26,21,Running,160
+4184,24,William Byron,Hendrick Motorsports,Valvoline,27,31,Running,160
+4231,34,Todd Gilliland,Front Row Motorsports,Grillo's Pickles,28,32,Running,160
+4125,51,Cody Ware,Rick Ware Racing,Parts Plus,29,36,Running,160
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Martin's Famous Potato Rolls,30,30,Running,160
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Safety Culture,31,23,Running,159
+4065,45,Tyler Reddick,23XI Racing,The Beast,32,8,Running,159
+4013,10,Ty Dillon,Kaulig Racing,Sea Best,33,27,Running,140
+4144,44,Brennan Poole,NY Racing Team,Members 1st Credit Union,34,37,Drivetrain,111
+3832,71,Michael McDowell,Spire Motorsports,Gainbridge,35,28,Accident,73
+4025,23,Bubba Wallace,23XI Racing,McDonald's,36,34,Accident,54
+4269,35,Riley Herbst,23XI Racing,Monster Energy Zero Sugar,37,29,Accident,41

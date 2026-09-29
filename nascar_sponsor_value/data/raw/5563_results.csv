@@ -1,0 +1,41 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4001,1,Ross Chastain,Trackhouse Racing,Jockey x Folds of Honor,1,40,Running,400
+4184,24,William Byron,Hendrick Motorsports,Axalta,2,3,Running,400
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,3,1,Running,400
+3774,16,AJ Allmendinger,Kaulig Racing,LeafFilter Gutter Protection,4,5,Running,400
+1816,6,Brad Keselowski,RFK Racing,BuildSubmarines.com,5,35,Running,400
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,6,22,Running,400
+3832,71,Michael McDowell,Spire Motorsports,Veterans 1001,7,15,Running,400
+4153,20,Christopher Bell,Joe Gibbs Racing,Rheem,8,10,Running,400
+4070,60,Ryan Preece,RFK Racing,Kroger/ Irish Spring,9,28,Running,400
+4224,4,Noah Gragson,Front Row Motorsports,Rush Truck Centers,10,8,Running,400
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Fun Pops,11,11,Running,400
+4123,21,Josh Berry,Wood Brothers Racing,eero,12,18,Running,400
+4059,43,Erik Jones,Legacy Motor Club,AdventHealth,13,27,Running,400
+4469,88,Shane Van Gisbergen,Trackhouse Racing,WeatherTech,14,30,Running,400
+454,8,Kyle Busch,Richard Childress Racing,Zone,15,24,Running,400
+1361,11,Denny Hamlin,Joe Gibbs Racing,National Debt Relief,16,20,Running,400
+3859,22,Joey Logano,Team Penske,Pennzoil Ultra Platinum,17,16,Running,400
+4231,34,Todd Gilliland,Front Row Motorsports,OVERPLAY,18,34,Running,399
+4013,10,Ty Dillon,Kaulig Racing,Grizzly Nicotine Pouches,19,19,Running,399
+3873,3,Austin Dillon,Richard Childress Racing,Bass Pro Shops/Winchester,20,26,Running,399
+4104,41,Cole Custer,Haas Factory Team,Texas A & M,21,29,Running,398
+3989,17,Chris Buescher,RFK Racing,Body Guard,22,4,Running,398
+4481,87,Connor Zilisch,Trackhouse Racing,Red Bull,23,33,Running,398
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,24,7,Running,398
+4125,51,Cody Ware,Rick Ware Racing,Jacob Const./Evel Kneivel,25,36,Running,398
+4065,45,Tyler Reddick,23XI Racing,The Beast,26,12,Running,398
+4092,42,John H. Nemechek,Legacy Motor Club,Dollar Tree,27,6,Running,398
+4269,35,Riley Herbst,23XI Racing,Monster Energy Zero Sugar,28,31,Running,397
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,29,9,Running,397
+4172,7,Justin Haley,Spire Motorsports,Gainbridge/NC National Guard,30,13,Running,395
+4180,2,Austin Cindric,Team Penske,Menards\Duracell,31,14,Running,388
+4297,44,Derek Kraus,NY Racing Team,Western States Flooring,32,37,Running,380
+4213,66,Josh Bilicki,Garage 66,AstraZeneca,33,38,Fuel Pressure,343
+4326,77,Carson Hocevar,Spire Motorsports,Chili's Ride the 'Dente,34,39,Engine,307
+4025,23,Bubba Wallace,23XI Racing,Chumba Casino,35,32,Accident,307
+4113,99,Daniel Suárez,Trackhouse Racing,Freeway Insurance,36,25,Accident,245
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com Hendrick 1100,37,2,Accident,245
+4023,12,Ryan Blaney,Team Penske,BodyArmor Chill,38,21,Accident,245
+4272,38,Zane Smith,Front Row Motorsports,Benebone,39,23,Accident,236
+1717,84,Jimmie Johnson,Legacy Motor Club,Carvana,40,17,Accident,111

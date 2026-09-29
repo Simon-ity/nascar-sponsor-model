@@ -1,0 +1,39 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+1361,11,Denny Hamlin,Joe Gibbs Racing,ampm,1,1,Running,267
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,2,6,Running,267
+4153,20,Christopher Bell,Joe Gibbs Racing,Rheem,3,3,Running,267
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,4,2,Running,267
+4065,45,Tyler Reddick,23XI Racing,Jordan Brand,5,8,Running,267
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,6,9,Running,267
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,7,12,Running,267
+454,8,Kyle Busch,Richard Childress Racing,zone nicotine pouches,8,32,Running,267
+4070,60,Ryan Preece,RFK Racing,Sysco / crumbl,9,16,Running,267
+1816,6,Brad Keselowski,RFK Racing,Nexlizet,10,34,Running,267
+4180,2,Austin Cindric,Team Penske,AutoTrader,11,31,Running,267
+3989,17,Chris Buescher,RFK Racing,Kroger / International Delight,12,11,Running,267
+4224,4,Noah Gragson,Front Row Motorsports,Rush Truck Centers,13,28,Running,267
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,Real American Beer,14,24,Running,267
+4059,43,Erik Jones,Legacy Motor Club,Dollar Tree,15,19,Running,267
+3832,71,Michael McDowell,Spire Motorsports,Delaware Life,16,18,Running,267
+4269,35,Riley Herbst,23XI Racing,Hungry Jack,17,33,Running,267
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,18,4,Running,267
+3774,16,AJ Allmendinger,Kaulig Racing,Celsius,19,20,Running,267
+4113,99,Daniel Suárez,Trackhouse Racing,Freeway Hispanic Heritage,20,17,Running,267
+4231,34,Todd Gilliland,Front Row Motorsports,Love's Travel Stops,21,30,Running,267
+4025,23,Bubba Wallace,23XI Racing,Robinhood,22,7,Running,267
+4001,1,Ross Chastain,Trackhouse Racing,Tootsies Orchid Lounge,23,15,Running,267
+4272,38,Zane Smith,Front Row Motorsports,Long John Silver's,24,23,Running,267
+3873,3,Austin Dillon,Richard Childress Racing,Get Bioethanol,25,25,Running,267
+4123,21,Josh Berry,Wood Brothers Racing,"Motorcraft \ Quick Lane",26,29,Running,266
+4172,7,Justin Haley,Spire Motorsports,Fly Alliance,27,27,Running,266
+4104,41,Cole Custer,Haas Factory Team,HaasTooling.com,28,21,Running,266
+4092,42,John H. Nemechek,Legacy Motor Club,Pye Barker Fire & Safety,29,26,Running,265
+3669,44,JJ Yeley,NY Racing Team,Epoxy Depot,30,37,Running,263
+4284,78,Katherine Legge,Live Fast Motorsports,Desnuda,31,38,Running,261
+4326,77,Carson Hocevar,Spire Motorsports,Classic Collision,32,22,Accident,252
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Jockey New Zealand,33,13,Accident,245
+4368,54,Ty Gibbs,Joe Gibbs Racing,SAIA LTL Freight,34,10,Accident,244
+4125,51,Cody Ware,Rick Ware Racing,Arby's Steak Nuggets,35,36,Accident,243
+4184,24,William Byron,Hendrick Motorsports,Relay Payments,36,5,Accident,235
+4013,10,Ty Dillon,Kaulig Racing,Sugarlands x Field & Stream,37,35,Accident,233
+4023,12,Ryan Blaney,Team Penske,Menards\Cardell Cabinetry,38,14,Accident,70

@@ -1,0 +1,4 @@
+segment,timestamp,shot_type,cars_visible,coder_pass
+early,00:00:05,wide,12;5;11,1
+early,00:00:10,tight,12,1
+early,00:00:15,booth,none,1

@@ -1,0 +1,40 @@
+driver_id,car_number,driver_fullname,team_name,sponsor,finishing_position,starting_position,finishing_status,laps_completed
+4030,5,Kyle Larson,Hendrick Motorsports,HendrickCars.com,1,3,Running,500
+1361,11,Denny Hamlin,Joe Gibbs Racing,Progressive,2,4,Running,500
+4368,54,Ty Gibbs,Joe Gibbs Racing,Monster Energy,3,6,Running,500
+4228,19,Chase Briscoe,Joe Gibbs Racing,Bass Pro Shops,4,14,Running,500
+4023,12,Ryan Blaney,Team Penske,Menards\Richmond Water Heaters,5,5,Running,500
+4184,24,William Byron,Hendrick Motorsports,Axalta,6,26,Running,500
+4001,1,Ross Chastain,Trackhouse Racing,Busch Light Flannel,7,35,Running,500
+4153,20,Christopher Bell,Joe Gibbs Racing,Rheem,8,7,Running,500
+3774,16,AJ Allmendinger,Kaulig Racing,Grizzly Nicotine Pouches,9,8,Running,500
+3873,3,Austin Dillon,Richard Childress Racing,Get Bioethanol,10,17,Running,499
+4326,77,Carson Hocevar,Spire Motorsports,Chili's Ride the 'Dente,11,9,Running,499
+4123,21,Josh Berry,Wood Brothers Racing,Motorcraft \ Quick Lane,12,11,Running,499
+4172,7,Justin Haley,Spire Motorsports,Nations Guard,13,10,Running,499
+454,8,Kyle Busch,Richard Childress Racing,Cheddar's Scratch Kitchen,14,15,Running,499
+4062,9,Chase Elliott,Hendrick Motorsports,NAPA Auto Parts,15,20,Running,499
+1816,6,Brad Keselowski,RFK Racing,Kroger/Oscar Mayer/Rustik Oven,16,16,Running,498
+4180,2,Austin Cindric,Team Penske,Snap On,17,21,Running,498
+4065,45,Tyler Reddick,23XI Racing,The Beast,18,27,Running,498
+4025,23,Bubba Wallace,23XI Racing,U.S. Air Force,19,22,Running,498
+4070,60,Ryan Preece,RFK Racing,Boost by Kroger,20,29,Running,498
+4092,42,John H. Nemechek,Legacy Motor Club,Dollar Tree,21,32,Running,498
+3888,47,Ricky Stenhouse Jr,HYAK Motorsports,SunnyD,22,2,Running,498
+4224,4,Noah Gragson,Front Row Motorsports,Rural King,23,31,Running,498
+3859,22,Joey Logano,Team Penske,Shell Pennzoil,24,38,Running,497
+3989,17,Chris Buescher,RFK Racing,BuildSubmarines.com,25,24,Running,497
+4059,43,Erik Jones,Legacy Motor Club,AdventHealth,26,28,Running,497
+4272,38,Zane Smith,Front Row Motorsports,Aaron's Lucky Dog,27,18,Running,497
+4269,35,Riley Herbst,23XI Racing,Lucy,28,25,Running,496
+4104,41,Cole Custer,Haas Factory Team,HaasTooling.com,29,33,Running,495
+3832,71,Michael McDowell,Spire Motorsports,Delaware Life,30,13,Running,495
+4463,33,Jesse Love,Richard Childress Racing,C4 Energy,31,19,Running,495
+4013,10,Ty Dillon,Kaulig Racing,Okuma,32,12,Running,494
+4113,99,Daniel Suárez,Trackhouse Racing,Choice Privileges,33,23,Running,494
+4096,01,Corey LaJoie,Rick Ware Racing,Schluter Systems,34,37,Running,494
+4231,34,Todd Gilliland,Front Row Motorsports,Love's Travel Stops,35,30,Running,493
+4125,51,Cody Ware,Rick Ware Racing,Arby's,36,34,Running,493
+4045,48,Alex Bowman,Hendrick Motorsports,Ally,37,1,Engine,343
+4469,88,Shane Van Gisbergen,Trackhouse Racing,Safety Culture,38,36,Suspension,208
+4213,66,Josh Bilicki,Garage 66,Manscaped,39,39,Electrical,193
