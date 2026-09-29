@@ -1,7 +1,3 @@
-# Personal projects
-
-Data and analytics projects by **Simon Ngo**, supply chain management and AI in business at ASU W. P. Carey (May 2027). Each folder is a self-contained project with narrated notebooks, source code and its own README.
-
 Primary tools: Python (pandas, numpy, scipy, matplotlib, seaborn), SQL (DuckDB), Monte Carlo simulation, Jupyter, pytest, GitHub Actions, HTML/JS.
 
 ## Sports and media analytics
