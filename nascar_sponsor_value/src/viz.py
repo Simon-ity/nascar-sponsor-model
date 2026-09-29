@@ -88,8 +88,11 @@ def headline(fig, title, subtitle=None):
         fig.text(xc, 0.905, subtitle, ha="center", va="top", fontsize=11.5, color=INK_2)
 
 
-def source(fig, text="Source: NASCAR loop data and results, 2025 Cup Series"):
-    """Uppercase source line placed just below the lowest element of the figure."""
+def source(fig, text=None):
+    """Uppercase source line placed just below the lowest element of the figure.
+    Charts built from NASCAR's race data carry no footer, so with no text this does nothing."""
+    if not text:
+        return
     fig.canvas.draw()
     r = fig.canvas.get_renderer()
     boxes = [ax.get_tightbbox(r).transformed(fig.transFigure.inverted()) for ax in fig.axes]

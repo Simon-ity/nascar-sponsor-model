@@ -151,7 +151,7 @@ def fig_network(bm):
     ax.grid(axis="x", visible=False)
     headline(fig, "A back-of-field start is worth 3x more on FOX than on USA",
              "Median primary-sponsor value of a bottom-quarter run, no laps led, by 2025 network. FOX's window in plum")
-    source(fig, "Source: NASCAR loop data 2025 · Audiences: Nielsen via The Daily Downforce tracker")
+    source(fig, "Audiences: Nielsen via The Daily Downforce tracker")
     fig.savefig(FIG / "network_window.png"); plt.close(fig)
     return g
 
