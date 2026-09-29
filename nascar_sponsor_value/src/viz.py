@@ -60,6 +60,13 @@ def use_style():
         "legend.fontsize": 10, "legend.title_fontsize": 10, "legend.labelcolor": INK,
         "axes.prop_cycle": matplotlib.cycler(color=[FIELD, NY, THIRD]),
     })
+    # In notebooks, draw charts at 2x pixels but display them at figure.dpi size,
+    # so text stays sharp on high-resolution screens. No-op outside IPython.
+    try:
+        from matplotlib_inline.backend_inline import set_matplotlib_formats
+        set_matplotlib_formats("retina")
+    except Exception:
+        pass
 
 
 def ordinal(n, lo=0.25, hi=1.0):
