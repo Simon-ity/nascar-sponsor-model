@@ -50,7 +50,7 @@ def short_track(name):
 def use_style():
     plt.style.use("fivethirtyeight")
     plt.rcParams.update({
-        "figure.dpi": 150, "savefig.dpi": 160, "savefig.bbox": "tight", "savefig.pad_inches": 0.25,
+        "figure.dpi": 100, "savefig.dpi": 160, "savefig.bbox": "tight", "savefig.pad_inches": 0.25,
         "figure.facecolor": SURFACE, "axes.facecolor": PANEL, "savefig.facecolor": SURFACE,
         "font.family": "DejaVu Sans", "font.size": 11, "axes.labelsize": 11, "axes.labelcolor": INK_2,
         "axes.titlesize": 14, "axes.titleweight": "normal", "axes.titlelocation": "center", "axes.titlecolor": INK,
